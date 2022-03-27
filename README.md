@@ -22,6 +22,21 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div align='center'>
+ <img src='https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e479wv652dtm1a1zfvmi4n2qlkykub5353ykmryfs8y&rid=giphy.gif&ct=g'    width="500"height="350"/>
+</div>
+---
+
+### :man_technologist: About Me :
+
+- :telescope: I’m currently studying at IIT Patna and contributing mostly to Frontend for building web/app applications.
+
+- :seedling: Currently exploring <b>Python</b>, <b>React Native</b>
+
+- :couple:  Looking forward to collaborate with other developers
+
+- :mailbox: How to reach me: (adityakumarsanni.2001@gmail.com)
+- 💬: Ask me anything about <b>HTML5, CSS3, JavaScript, Bootstrap, jQuery, Node.js, Express.js, EJS, MongoDB, React.js, React Native, C, C++, Python, Git-Github, Postman</b>
 <!---
 Aditya61101/Aditya61101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
