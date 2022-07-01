@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m currently studying at IIT Patna and contributing mostly to Frontend for building web/app applications.
+- :telescope: I’m currently studying at IIT Patna and contributing mostly to Front-end for building web/app applications.
 
 - :seedling: Currently exploring <b>Python</b>, <b>React Native</b>
 
