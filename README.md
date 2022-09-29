@@ -37,6 +37,8 @@
 
 - :mailbox: How to reach me: (adityakumarsanni.2001@gmail.com)
 - 💬: Ask me anything about <b>HTML5, CSS3, JavaScript, Bootstrap, jQuery, Node.js, Express.js, EJS, MongoDB, React.js, React Native, C, C++, Python, Jupyter Notebook, Git-Github, Postman</b>
+
+[![@fear_inoculum's Holopin board](https://holopin.io/api/user/board?user=fear_inoculum)](https://holopin.io/@fear_inoculum)
 <!---
 Aditya61101/Aditya61101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
