@@ -38,7 +38,11 @@
 - :mailbox: How to reach me: (adityakumarsanni.2001@gmail.com)
 - 💬: Ask me anything about <b>HTML5, CSS3, JavaScript, TypeScript, Bootstrap, jQuery, Node.js, Express.js, Django, EJS, MongoDB, Mongoose, React.js, React Native, C, C++, Python, Jupyter Notebook, Git-Github, Postman</b>
 
-[![@fear_inoculum's Holopin board](https://holopin.io/api/user/board?user=fear_inoculum)](https://holopin.io/@fear_inoculum)
+[![Aditya’s github stats](https://github-readme-stats.vercel.app/api?username=Aditya61101)](https://github.com/Aditya61101)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&layout=compact)](https://github.com/Aditya61101)
+
+[![@Aditya's Holopin board](https://holopin.io/api/user/board?user=fear_inoculum)](https://holopin.io/@fear_inoculum)
 <!---
 Aditya61101/Aditya61101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
