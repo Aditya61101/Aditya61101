@@ -36,7 +36,7 @@
 - :couple:  Looking forward to collaborate with other developers
 
 - :mailbox: How to reach me: (adityakumarsanni.2001@gmail.com)
-- 💬: Ask me anything about <b>HTML5, CSS3, JavaScript, TypeScript, Bootstrap, jQuery, Node.js, Express.js, Django, EJS, MongoDB, React.js, React Native, C, C++, Python, Jupyter Notebook, Git-Github, Postman</b>
+- 💬: Ask me anything about <b>HTML5, CSS3, JavaScript, TypeScript, Bootstrap, jQuery, Node.js, Express.js, Django, EJS, MongoDB, Mongoose, React.js, React Native, C, C++, Python, Jupyter Notebook, Git-Github, Postman</b>
 
 [![@fear_inoculum's Holopin board](https://holopin.io/api/user/board?user=fear_inoculum)](https://holopin.io/@fear_inoculum)
 <!---
