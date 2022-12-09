@@ -38,9 +38,9 @@
 - :mailbox: How to reach me: (adityakumarsanni.2001@gmail.com)
 - 💬: Ask me anything about <b>HTML5, CSS3, JavaScript, TypeScript, Bootstrap, jQuery, Node.js, Express.js, Django, EJS, MongoDB, Mongoose, React.js, React Native, C, C++, Python, Jupyter Notebook, Git-Github, Postman</b>
 
-[![Aditya’s github stats](https://github-readme-stats.vercel.app/api?username=Aditya61101)](https://github.com/Aditya61101)
+[![Aditya’s github stats](https://github-readme-stats.vercel.app/api?username=Aditya61101&count_private=true&show_icons=true&theme=algolia)](https://github.com/Aditya61101/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&layout=compact)](https://github.com/Aditya61101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&layout=compact&count_private=true)](https://github.com/Aditya61101/)
 
 [![@Aditya's Holopin board](https://holopin.io/api/user/board?user=fear_inoculum)](https://holopin.io/@fear_inoculum)
 <!---
