@@ -36,13 +36,15 @@
 - :couple:  Looking forward to collaborate with other developers
 
 - :mailbox: How to reach me: (adityakumarsanni.2001@gmail.com)
-- 💬: Ask me anything about <b>HTML5, CSS3, JavaScript, TypeScript, Bootstrap, jQuery, Node.js, Express.js, Django, EJS, MongoDB, Mongoose, React.js, React Native, C, C++, Python, Jupyter Notebook, Git-Github, Postman</b>
+- 💬: Ask me anything about <b>HTML5, CSS3, JavaScript, TypeScript, Bootstrap, jQuery, Node.js, Express.js, Django, EJS, MongoDB, Mongoose, React.js, Next.js, React Native, C, C++, Python, Jupyter Notebook, Git-Github, Postman</b>
 
-[![Aditya’s github stats](https://github-readme-stats.vercel.app/api?username=Aditya61101&count_private=true&show_icons=true&theme=algolia)](https://github.com/Aditya61101/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&layout=compact&count_private=true)](https://github.com/Aditya61101/)
-
-[![@Aditya's Holopin board](https://holopin.io/api/user/board?user=fear_inoculum)](https://holopin.io/@fear_inoculum)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aditya61101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <!---
 Aditya61101/Aditya61101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
