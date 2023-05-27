@@ -45,7 +45,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&langs_count=10&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=pie&exclude_repo=Air-Quality-Index) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya61101&theme=tokyonight&exclude=Air-Quality-Index)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya61101&theme=tokyonight&exclude=jupyter-notebook)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya61101&theme=tokyonight&exclude=Air-Quality-Index)
 
 ## 🏆 GitHub Trophies
