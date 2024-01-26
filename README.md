@@ -29,9 +29,9 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m currently studying at IIT Patna and contributing mostly to Front-end for building web and mobile applications.
+- :telescope: I’m currently studying at IIT Patna and contributing to Fullstack development for building web and mobile applications.
 
-- :seedling: Currently exploring <b>Python</b>, <b>React Native</b>, <b>Next.js</b>
+- :seedling: Currently exploring <b>Golang</b>, <b>Django</b>, <b>Next.js</b>
 
 - :couple:  Looking forward to collaborate with other developers
 
@@ -44,7 +44,7 @@
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Aditya61101&theme=react-dark)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&langs_count=10&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=pie&exclude_repo=Air-Quality-Index)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&exclude_lang=HTML)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya61101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
