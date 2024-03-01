@@ -1,4 +1,4 @@
-<h1 align="center"> Hello People 👋 <br/> I'm Aditya Kumar!</h1>
+<h1 align="center"> Hello People 👋, <br/> I'm Aditya Kumar!</h1>
 <!-- <div align='center'>
  <img src='https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e479wv652dtm1a1zfvmi4n2qlkykub5353ykmryfs8y&rid=giphy.gif&ct=g' width="500"height="350"/>
 </div> -->
@@ -35,7 +35,7 @@
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Aditya61101&theme=react-dark)
 ![](https://github-readme-stats.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&langs_count=19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&hide=html,css,jupyter%20notebook)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya61101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
