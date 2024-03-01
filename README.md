@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Aditya61101&theme=react-dark)
 ![](https://github-readme-stats.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&langs_count=10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&hide=html,css)
 
 ## 🏆 GitHub Trophies
