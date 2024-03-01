@@ -1,10 +1,7 @@
-
-<div id="header" align="center">
-  <h1> Hello People! 👋, I'm Aditya Kumar </h1>
-  <h3>A passionate Software Developer from India</h3>
-  <div id='badges'>
-    <img src="https://komarev.com/ghpvc/?username=Aditya61101&style=flat-square&color=blue" alt=""/>
-  </div>
+<h1 align="center"> Hello People! 👋, I'm Aditya Kumar </h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+<div id='badges' align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya61101&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align='center'>
@@ -28,7 +25,7 @@
 
 - ⚡ Fun fact **Google was originally supposed to be named Googol which is the mathematical term for the number one followed by 100 zeroes (so like the term “million,” etc.) but it was misspelt and they ended up just sticking with Google.**
 
-## Connect with Me
+## 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/aditya-kumar-337a08218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-337a08218" height="30" width="40" /></a>
 <a href="https://instagram.com/ad1tya_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ad1tya_kr" height="30" width="40" /></a>
