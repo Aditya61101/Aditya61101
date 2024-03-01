@@ -1,7 +1,15 @@
-<h1 align="center" style="border: none;"> Hello People 👋, I'm Aditya Kumar!</h1>
-<div align='center'>
+<h1 align="center"> Hello People 👋 <br/> I'm Aditya Kumar!</h1>
+<!-- <div align='center'>
  <img src='https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e479wv652dtm1a1zfvmi4n2qlkykub5353ykmryfs8y&rid=giphy.gif&ct=g' width="500"height="350"/>
-</div>
+</div> -->
+
+<p align="center">
+<a href="https://linkedin.com/in/aditya-kumar-337a08218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-337a08218" height="30" width="40" /></a>
+<a href="https://instagram.com/ad1tya_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ad1tya_kr" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fearinoculum" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fearinoculum" height="30" width="40" /></a>
+</p>
+
 <div id='badges' align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya61101&style=flat-square&color=blue" alt=""/>
 </div>
