@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Django, Docker, Golang**
 
-- 👨‍💻 All of my projects are available at [https://aditya-folio.vercel.app/](https://aditya-folio.vercel.app/)
+- 👨‍💻 My Portfolio: [https://aditya-folio.vercel.app/](https://aditya-folio.vercel.app/)
 
 - 💬 Ask me about **React, Express, JavaScript, MongoDB**
 
