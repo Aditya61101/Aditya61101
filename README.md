@@ -1,13 +1,10 @@
 <h1 align="center"> Hello People 👋, <br/> I'm Aditya Kumar!</h1>
-<!-- <div align='center'>
- <img src='https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e479wv652dtm1a1zfvmi4n2qlkykub5353ykmryfs8y&rid=giphy.gif&ct=g' width="500"height="350"/>
-</div> -->
 
 <p align="center">
-<a href="https://linkedin.com/in/aditya-kumar-337a08218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-337a08218" height="30" width="40" /></a>
-<a href="https://instagram.com/ad1tya_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ad1tya_kr" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fearinoculum" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fearinoculum" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/aditya-kumar-337a08218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-337a08218" height="30" width="40" /></a>
+ <a href="https://instagram.com/ad1tya_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ad1tya_kr" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fearinoculum" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fearinoculum" height="30" width="40" /></a>
 </p>
 
 <div id='badges' align="center">
@@ -35,6 +32,8 @@
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Aditya61101&theme=react-dark)
 ![](https://github-readme-stats.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false) <br/>
+[![fearInoculum's GitHub | Dependencies](https://stats.quine.sh/fearInoculum/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fearInoculum)
+[![fearInoculum's GitHub | Topics Over Time](https://stats.quine.sh/fearInoculum/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fearInoculum)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&langs_count=19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&hide=html,css,jupyter%20notebook)
 
 ## 🏆 GitHub Trophies
