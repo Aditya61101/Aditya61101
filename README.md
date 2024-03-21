@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Aditya61101&theme=react-dark)
-![](https://github-readme-stats.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&rank_icon=percentile)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false) <br/>
 [![fearInoculum's GitHub | Dependencies](https://stats.quine.sh/fearInoculum/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fearInoculum)
 [![fearInoculum's GitHub | Topics Over Time](https://stats.quine.sh/fearInoculum/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fearInoculum)
