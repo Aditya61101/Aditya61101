@@ -13,11 +13,11 @@
 
 ## :man_technologist: About Me: A passionate Software Developer from India
 
-- 🌱 I’m currently learning **Django, Docker, Golang**
+- 🌱 I’m currently learning **Django, Java, Golang**
 
 - 👨‍💻 My Portfolio: [https://aditya-folio.vercel.app/](https://aditya-folio.vercel.app/)
 
-- 💬 Ask me about **React, Express, JavaScript, MongoDB**
+- 💬 Ask me about **React, Express, JavaScript, TypeScript, MongoDB**
 
 - 📫 How to reach me: **adityakumarsanni.2001@gmail.com**
 
