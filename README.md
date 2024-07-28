@@ -35,6 +35,7 @@
 [![fearInoculum's GitHub | Dependencies](https://stats.quine.sh/fearInoculum/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fearInoculum)
 [![fearInoculum's GitHub | Topics Over Time](https://stats.quine.sh/fearInoculum/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fearInoculum)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya61101&langs_count=19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&hide=html,css,jupyter%20notebook,batchfile)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya61101&theme=tokyo-night)]
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya61101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
