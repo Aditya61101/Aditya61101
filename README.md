@@ -13,7 +13,7 @@
 
 ## :man_technologist: About Me: A passionate Software Developer from India
 
-- 🌱 I’m currently learning **Django, Java, Golang**
+- 🌱 I’m currently learning **Angular, Java, Flask**
 
 - 👨‍💻 My Portfolio: [https://aditya-folio.vercel.app/](https://aditya-folio.vercel.app/)
 
