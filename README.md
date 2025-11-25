@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://linkedin.com/in/aditya-kumar-337a08218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-337a08218" height="30" width="40" /></a>
  <a href="https://instagram.com/ad1tya_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ad1tya_kr" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fearinoculum" height="30" width="40" /></a>
+ <!-- <a href="https://codeforces.com/profile/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fearinoculum" height="30" width="40" /></a> -->
  <a href="https://www.leetcode.com/fearinoculum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fearinoculum" height="30" width="40" /></a>
 </p>
 
