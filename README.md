@@ -33,10 +33,10 @@
 ![](https://github-readme-stats-six-seven.vercel.app/api?username=Aditya61101&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&rank_icon=percentile)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya61101&theme=radical&hide_border=false) <br/>
 ![](https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Aditya61101&langs_count=19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie&hide=html,css,jupyter%20notebook,batchfile)
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya61101&theme=tokyo-night)
+![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya61101&theme=tokyo-night)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya61101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-liard-delta.vercel.app/?username=Aditya61101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!---
 Aditya61101/Aditya61101 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
